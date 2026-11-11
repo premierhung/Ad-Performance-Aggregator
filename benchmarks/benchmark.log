@@ -1,0 +1,12 @@
+Date:   2026-11-11T14:42:38.526Z
+Node:   v24.21.0
+OS:     Windows_NT 10.0.26200 (x64)
+CPU:    Intel(R) Core(TM) i5-14600KF (20 logical cores)
+Memory: 31.8 GiB
+Input:  ad_data.csv (1,043,304,870 bytes)
+
+Run 1: Aggregated 26,843,544 row(s) into 50 campaign(s) in 3.24 s (peak memory 49.7 MB RSS).
+Run 2: Aggregated 26,843,544 row(s) into 50 campaign(s) in 3.26 s (peak memory 48.9 MB RSS).
+Run 3: Aggregated 26,843,544 row(s) into 50 campaign(s) in 3.28 s (peak memory 49.7 MB RSS).
+Run 4: Aggregated 26,843,544 row(s) into 50 campaign(s) in 3.27 s (peak memory 49.7 MB RSS).
+Run 5: Aggregated 26,843,544 row(s) into 50 campaign(s) in 3.41 s (peak memory 49.9 MB RSS).
