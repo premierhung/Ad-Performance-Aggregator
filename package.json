@@ -1,0 +1,19 @@
+{
+  "name": "ad-performance-aggregator",
+  "version": "1.0.0",
+  "description": "Streaming CLI that aggregates a large ad-performance CSV by campaign and reports the top campaigns by CTR and CPA.",
+  "private": true,
+  "type": "module",
+  "bin": {
+    "ad-aggregator": "src/cli.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node src/cli.js",
+    "test": "node --test",
+    "benchmark": "node scripts/benchmark.js"
+  },
+  "license": "MIT"
+}
